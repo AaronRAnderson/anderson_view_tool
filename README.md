@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+AndersonViewTool::Renderer.copyright 'Aaron Anderson', 'All rights reserved'
+```
 
 ## Development
 
